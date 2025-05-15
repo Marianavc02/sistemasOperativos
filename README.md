@@ -28,7 +28,7 @@ Cada módulo puede ser ejecutado desde un menú interactivo en consola.
 - Terminal que soporte ejecución multihilo
 
 ---
-##nota importante para el usuario 
+## Nota importante para el usuario 
 Para ejecutar la opción 2 del menú (Ejecutar procesos del simulador de kernel), debes primero crear procesos utilizando la opción 1.
 
 Si ejecutas la opción 2 y el proceso se termina, todos los procesos previamente creados se eliminan y no se ejecutarán nuevamente.
