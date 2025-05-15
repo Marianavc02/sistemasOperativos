@@ -40,7 +40,7 @@ Por lo tanto, si deseas volver a ejecutar la opción 2, debes repetir la creaci�
 Para compilar el proyecto, usa el siguiente comando en la terminal:
 
 ```bash
-git clone: https://github.com/Marianavc02/sistemasOperativos.git
+git clone https://github.com/Marianavc02/sistemasOperativos.git
 
 cd/UbicaciónDelArchivo/
 
