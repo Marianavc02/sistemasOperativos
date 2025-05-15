@@ -40,5 +40,5 @@ Por lo tanto, si deseas volver a ejecutar la opci√≥n 2, debes repetir la creaci√
 Para compilar el proyecto, usa el siguiente comando en la terminal:
 
 ```bash
-g++ -std=c++11 -pthread main.cpp -o simulador
+g++ -std=c++11 -pthread SOFinal.cpp -o simulador
 
