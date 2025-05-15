@@ -42,3 +42,6 @@ Para compilar el proyecto, usa el siguiente comando en la terminal:
 ```bash
 g++ -std=c++11 -pthread SOFinal.cpp -o simulador
 
+Una vez compilado, ejecuta el programa con:
+./simulador
+
